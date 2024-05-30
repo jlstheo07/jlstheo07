@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **new people to sharing about Data Science**
 
-- 📝 I regularly write articles on [https://scholar.google.com/citations?hl=id&user=1mv_PJQAAAAJ&view_op=list_works&gmla=AILGF5WN0JxSwszf4vFYn5CpTUDqBsfW70gkdefgaOo52CvVQnLiRDMiAxcrl2UVO1HQjbDapvfmrfJauxtX9SO-](https://scholar.google.com/citations?hl=id&user=1mv_PJQAAAAJ&view_op=list_works&gmla=AILGF5WN0JxSwszf4vFYn5CpTUDqBsfW70gkdefgaOo52CvVQnLiRDMiAxcrl2UVO1HQjbDapvfmrfJauxtX9SO-)
-
 - 📫 How to reach me **juliusimmanueltheo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
