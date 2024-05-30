@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on **ML and DL Project**
 - 📫 How to reach me **juliusimmanueltheo@gmail.com**
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=id&user=1mv_PJQAAAAJ&view_op=list_works&gmla=AILGF5WN0JxSwszf4vFYn5CpTUDqBsfW70gkdefgaOo52CvVQnLiRDMiAxcrl2UVO1HQjbDapvfmrfJauxtX9SO-)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliusnueltheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahrulyudhafahrezi" height="30" width="40" /></a>
