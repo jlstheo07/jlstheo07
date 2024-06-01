@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Data Analytics, and making Journal**
 
-- 👯 I’m looking to collaborate on **collaborate on ML and DL Project**
+- 👯 I’m looking to collaborate on **ML and DL Project**
 
 - 🤝 I’m looking for help with **new people to sharing about Data Science**
 
