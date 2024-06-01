@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **juliusimmanueltheo@gmail.com**
 
+	[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=id&user=1mv_PJQAAAAJ&view_op=list_works&gmla=AILGF5WN0JxSwszf4vFYn5CpTUDqBsfW70gkdefgaOo52CvVQnLiRDMiAxcrl2UVO1HQjbDapvfmrfJauxtX9SO-)
+
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/4c7f4a26db5f238f77c0cb5636248b4d9bb8386a60068ec1711be3d13349de0f/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f706f6b656d6f682d61643066612e61707073706f742e636f6d2f6f2f65386634353334363961336563393765636433353464663436356437333931332e6769663f616c743d6d6564696126746f6b656e3d30343235333662312d643139612d343433382d616262642d343832613738663631623230">
 
 
